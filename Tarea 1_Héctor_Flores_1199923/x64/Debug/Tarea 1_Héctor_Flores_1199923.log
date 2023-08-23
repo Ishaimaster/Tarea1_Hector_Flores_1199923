@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\MyForm.h(305,15): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\MyForm.h(357,15): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\MyForm.h(397,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\MyForm.h(397,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\MyForm.h(413,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\MyForm.h(414,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\MyForm.h(414,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Tarea 1_Héctor_Flores_1199923.vcxproj -> C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\x64\Debug\Tarea 1_Héctor_Flores_1199923.exe
