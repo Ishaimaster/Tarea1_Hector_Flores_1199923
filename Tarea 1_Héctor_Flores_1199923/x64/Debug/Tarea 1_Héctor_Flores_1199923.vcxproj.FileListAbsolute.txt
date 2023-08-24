@@ -1,4 +1,0 @@
-C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\x64\Debug\Tarea 1_Héctor_Flores_1199923.vcxproj.AssemblyReference.cache
-C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\x64\Debug\Tarea1HéctorFlores1199923.MyForm.resources
-C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\x64\Debug\Tarea 1_Héctor_Flores_1199923.vcxproj.GenerateResource.cache
-C:\Users\HP\source\repos\Tarea 1_Héctor_Flores_1199923\x64\Debug\Tarea 1_Héctor_Flores_1199923.exe
